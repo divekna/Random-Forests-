@@ -7,7 +7,7 @@ treating those who have taxable_income <= 30000 as "Risky" and others are "Good"
 
 Second 
 
-Random Forest
+Random Forest on Company Data 
 
 About the data: 
 Let’s consider a Company dataset with around 10 variables and 400 records. 
